@@ -1,0 +1,12 @@
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\bin\Debug\netcoreapp3.1\BlurbTemplate.Core.deps.json
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\bin\Debug\netcoreapp3.1\BlurbTemplate.Core.dll
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\bin\Debug\netcoreapp3.1\BlurbTemplate.Core.pdb
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.AssemblyInfoInputs.cache
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.AssemblyInfo.cs
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.csproj.CoreCompileInputs.cache
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.dll
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.pdb
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\bin\Debug\netcoreapp3.1\BlurbTemplate.Interfaces.dll
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\bin\Debug\netcoreapp3.1\BlurbTemplate.Interfaces.pdb
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.csprojAssemblyReference.cache
+C:\My Projects\Apply\BlurbTemplate\BlurbTemplate.Core\obj\Debug\netcoreapp3.1\BlurbTemplate.Core.csproj.CopyComplete

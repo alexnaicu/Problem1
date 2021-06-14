@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BlurbTemplate.Core/1.0.0": {
+        "dependencies": {
+          "BlurbTemplate.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "BlurbTemplate.Core.dll": {}
+        }
+      },
+      "BlurbTemplate.Interfaces/1.0.0": {
+        "runtime": {
+          "BlurbTemplate.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlurbTemplate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlurbTemplate.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
