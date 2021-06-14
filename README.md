@@ -18,8 +18,8 @@ Put Header Content-Type to application/json
 Put Body type raw
 Paste in the body the next json
 {
-    "template":"This <plc> works",
-    "placeholder":"<plc>",
+    "template":"This --plc-- works",
+    "placeholder":"--plc--",
     "replacement":"word replacer"
 }
 
